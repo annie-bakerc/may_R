@@ -1,0 +1,21 @@
+---
+title: "data_analysis_reproducible_workshop"
+output: html_notebook
+---
+
+I can write anything here
+
+#Setup
+
+```{r name_of_the_chunk}
+#I think this is what will show up
+pacman:: p_load('tidyverse')
+
+df <- df.RDS
+```
+
+#Linear Regression
+
+```{r ols}
+
+```
